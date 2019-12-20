@@ -2,3 +2,4 @@ nltk
 spacy
 numpy
 torch
+matplotlib
